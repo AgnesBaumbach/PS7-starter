@@ -1,8 +1,18 @@
 ---
 title: "Problem Set 7 - Git Questions"
-author: "Your Name"
-date: "02 June 2020"
+author: "Agnes Baumbach"
+date: "06 June 2020"
 output: pdf_document
 ---
 
-Text answers suffice!
+Who is responsible for which functions?
+Philipp created pem function and Julia added a summary method.
+
+Who contributed more to the code?
+Philipp contributed 71++ 41-- and Julia 50++ 1--, so Philipp contributed more.
+
+Who pushed more often?
+Philipp pushed more often.
+
+Do the two have a different style?
+???
